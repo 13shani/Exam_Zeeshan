@@ -15,6 +15,7 @@ public class Empleado {
 	 * 2nd attribute is a type of String and named as "apellido"
 	 * 3rd attribute is a type of double and named as "salario"
 	 * 
+	 * 
 	 */
 	private String nombre;
 	private String apellidos;
