@@ -5,7 +5,7 @@ package controlVersiones;
  * 
  * @author Zeeshan
  * @version 1, 2011
- * @since
+ * @since 24-05-2021
  *
  */
 public class Empleado {
@@ -14,7 +14,6 @@ public class Empleado {
 	 * 1st attribute is a type of String and named as "nombre"
 	 * 2nd attribute is a type of String and named as "apellido"
 	 * 3rd attribute is a type of double and named as "salario"
-	 * 
 	 * 
 	 */
 	private String nombre;
